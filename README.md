@@ -1,5 +1,15 @@
 # 💫 About Me:
-I’m currently working on building real-world Python projects and strengthening my backend and database fundamentals<br> I’m looking to collaborate on Python development, data analytics, and database-driven applications<br> I’m looking for help with scalable system design, advanced PostgreSQL optimization, and production-level best practices<br> I’m currently learning Generative AI concepts and exploring how AI can be integrated into data-driven applications<br> Ask me about Python programming, SQL queries, PostgreSQL, Power BI, Tableau, and data visualization strategies<br>Fun fact: I enjoy solving complex problems by breaking them down into clean, logical, and efficient code
+🔭 I’m currently working on building real-world Python projects and strengthening my backend and database fundamentals
+
+👯 I’m looking to collaborate on Python development, data analytics, and database-driven applications
+
+🤝 I’m looking for help with scalable system design, advanced PostgreSQL optimization, and production-level best practices
+
+🌱 I’m currently learning Generative AI concepts and exploring how AI can be integrated into data-driven applications
+
+💬 Ask me about Python programming, SQL queries, PostgreSQL, Power BI, Tableau, and data visualization strategies
+
+⚡ Fun fact: I enjoy solving complex problems by breaking them down into clean, logical, and efficient code
 
 
 ## 🌐 Socials:
